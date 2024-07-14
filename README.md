@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tafheemulhaq
-- 👀 I’m interested in games
+- 👀 I’m interested in
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on probably nothing for a while
+- 💞️ I’m looking to collaborating on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
